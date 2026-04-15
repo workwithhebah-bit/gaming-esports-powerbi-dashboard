@@ -40,7 +40,10 @@ The dataset includes information related to gaming and esports industry performa
 - How does industry performance vary by region?
 - What trends can be identified from overall market KPIs?
 
-## Dashboard Preview
+
+## 🎥 Dashboard Walkthrough
+
+![Dashboard Demo](Gdashboard_preview_R.gif)
 
 ### Dashboard Page 1
 ![Dashboard Preview 1](dashboard_preview1.png)
