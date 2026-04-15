@@ -42,6 +42,10 @@ The dataset includes information related to gaming and esports industry performa
 
 ## Dashboard Preview
 
+## 🎥 Dashboard Demo
+
+https://github.com/YOUR-USERNAME/YOUR-REPO/assets/your-video-link
+
 ### Dashboard Page 1
 ![Dashboard Preview 1](dashboard_preview1.png)
 
