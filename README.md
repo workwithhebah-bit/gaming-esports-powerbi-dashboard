@@ -42,11 +42,6 @@ The dataset includes information related to gaming and esports industry performa
 
 ## Dashboard Preview
 
-## 🎥 Dashboard Demo
-
-[https://github.com/YOUR-USERNAME/YOUR-REPO/assets/your-video-link
-](https://github.com/workwithhebah-bit/gaming-esports-powerbi-dashboard/blob/main/Gdashboard_preview_R.mov)
-
 ### Dashboard Page 1
 ![Dashboard Preview 1](dashboard_preview1.png)
 
